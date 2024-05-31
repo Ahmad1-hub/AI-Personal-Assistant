@@ -33,7 +33,7 @@ document.getElementById('appointment-form').addEventListener('submit', function 
 
 function getPersonalRecommendations() {
     const recommendations = [
-        'This is a demo and will be updated later'
+        'This is a demo and will be updated later, It updates base don the user tasks added'
     ];
 
     const recommendationsList = document.getElementById('recommendations-list');
